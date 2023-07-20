@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there! I'm a talented full-stack developer at AmaliTech Services. <br>I bring passion and expertise to my role as a backend developer, creating scalable and high-performing systems using languages like JavaScript, Java, and PHP and their respective frameworks, such as Node.js, Spring Boot, Laravel, and Spryker.<br>I have extensive experience with Laravel, having worked on a successful Enterprise Resource Management System and Java, where I delivered a robust Payroll System. <br>Currently, I am expanding my skillset by studying the Spryker framework, with the goal of using it to develop an e-commerce solution. <br>In my free time, I love to unwind by watching movies.
+Hi there! I'm a talented full stack developer primarily focusing on backend development at AmaliTech Services. 
+My tech stack includes JavaScript, Java, PHP, Node.js, Spring Boot, Laravel, Angular, Reactjs and Vuejs.
+I bring passion and expertise to my backend developer role, creating scalable, high-performing, and maintainable systems using languages like JavaScript, Java, and PHP and their respective frameworks, such as Node.js, Spring Boot, and Laravel.
+I have extensive experience with Laravel, having worked on an Enterprise Resource Management System and Java, where I contributed to a robust Payroll System. 
+I am dedicated to creating scalable and maintainable backends and aspire to become a Java and Spring Boot expert.
+I enjoy watching movies in my free time and am upskilling in Spring Boot microservices.
 
 
 ## 🌐 Socials:
